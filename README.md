@@ -5,7 +5,7 @@
 
 <h1 align="center"> |MR.JAMES|</h1>
 
-<h2 align="center"> FB CRACKING TOOL </h2>
+<h2 align="center"> FB CRACKING TOOL LOGIN WITH TOKEN AND COOKIES </h2>
 
 <p align="center">
       LATEST FB FRIEND AND PUBLIC ID CLONER
