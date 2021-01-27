@@ -28,7 +28,7 @@ $ pip2 install mechanize
 $ pip2 install bs4
 $ pkg install git
 $ git clone https://github.com/James404-cyber/Tcookies.git
-$ cd BD Tcookies
+$ cd Tcookies
 $ python2 Tcookies.py
 ```
 
